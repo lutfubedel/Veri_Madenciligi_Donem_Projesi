@@ -41,7 +41,7 @@ Model: RandomForestClassifier (Scikit-learn)
 | Precision | %95–99 |
 | Recall | %95–99 |
 | F1-Score | %95–99 |
-| AUC | 0.99–1.00 (tüm sınıflar için çok yüksek) |
+| AUC | 0.99–1.00 |
 
 - Model, özellikle “çok mutlu” (Label: 5) sınıfında yüksek doğruluk gösterdi.
 - Confusion matrix, modelin karışıklık oranının düşük olduğunu gösteriyor.
