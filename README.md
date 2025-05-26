@@ -33,7 +33,7 @@ Model: RandomForestClassifier (Scikit-learn)
 - Aşırı öğrenmeye karşı dirençli
 - Düzensiz ve gürültülü çevresel veriler için ideal
 
-## 📊 Model Performansı
+## Model Performansı
 
 | Metrik | Değer |
 |-------|--------|
@@ -47,9 +47,13 @@ Model: RandomForestClassifier (Scikit-learn)
 - Confusion matrix, modelin karışıklık oranının düşük olduğunu gösteriyor.
 - ROC eğrileri, sınıflar arası ayrım başarısının yüksek olduğunu doğruladı.
 
-## 📈 Sonuçlar
+## Sonuçlar
 
 - **Çevresel veriler**, bireylerin ruh halini yüksek doğrulukla tahmin etmede etkili olabilir.
 - **Random Forest modeli**, bu tür tahminler için uygun bir çözüm sunmuştur.
 - Model, edge cihazlarda çalışacak şekilde optimize edilebilecek düzeyde başarılıdır.
 - Çalışma, psikolojik sağlık ve çevresel farkındalık temelli dijital sağlık uygulamalarına temel sağlayabilir.
+
+## Youtube Linki 
+
+
