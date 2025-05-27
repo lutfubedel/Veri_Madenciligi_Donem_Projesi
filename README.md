@@ -55,5 +55,5 @@ Model: RandomForestClassifier (Scikit-learn)
 - Çalışma, psikolojik sağlık ve çevresel farkındalık temelli dijital sağlık uygulamalarına temel sağlayabilir.
 
 ## Youtube Linki 
-
+ https://youtu.be/q-vq2YO5kOk
 
